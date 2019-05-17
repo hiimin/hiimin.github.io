@@ -12,7 +12,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 ## 데이터 관리와 분석, 활용
 
-현재 IT분야에서는 데이터 관리와 분석이 가장 중요시된다. 유투브도 Cloud라고 할 수 있다.(Cloud와 On-premise 차이점 인지 필요)
+현재 IT분야에서는 데이터 관리와 분석이 가장 중요시된다. 유투브도 Cloud라고 할 수 있다.(Cloud(공유)와 On-premise() 차이점 인지 필요)
 
 ### AI, BigData, IOT
 IOT란 전기가 통하는 모든 장치들에 센서를 부착하여 네트워크를 이용해 제어하고 상태를 파악
